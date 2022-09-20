@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Eric</h1>
-<h3 align="center">A passionate and self-motivated frontend developer from NJ</h3>
+<h3 align="center">A passionate and self-motivated full-stack developer from NJ</h3>
 
 - 🔭 I’m currently working on [Invoice-App, a Frontend Mentor Project](https://github.com/ericwink/fem-invoice-app)
 
