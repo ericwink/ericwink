@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Eric</h1>
 <h3 align="center">A passionate and self-motivated full-stack developer from NJ</h3>
 
-- 🔭 I’m currently working on [Invoice-App, a Frontend Mentor Project](https://github.com/ericwink/fem-invoice-app)
-
 - 👨‍💻 All of my projects are available at [https://www.ericwink.dev/](https://www.ericwink.dev/)
 
 - 📫 How to reach me **eric.winkelspecht@gmail.com**
