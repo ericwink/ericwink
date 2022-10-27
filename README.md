@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ericwink.dev/](https://www.ericwink.dev/)
 
+- 🔭 I’m currently working on [A Connect Four Game](https://github.com/ericwink/connect-four-game)
+
 - 📫 How to reach me **eric.winkelspecht@gmail.com**
 
 - ⚡ Fun fact **I am an avid Gunpla modeler**
