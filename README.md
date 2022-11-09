@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ericwink.dev/](https://www.ericwink.dev/)
 
-- 🔭 I’m currently working on [A Connect Four Game](https://github.com/ericwink/connect-four-game)
+- 🔭 I’m currently working on [A Kanban Task Tracker](https://github.com/ericwink/kanban-app)
 
 - 📫 How to reach me **eric.winkelspecht@gmail.com**
 
