@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ericwink.dev/](https://www.ericwink.dev/)
 
-- 🔭 I’m currently working on [A Kanban Task Tracker](https://github.com/ericwink/kanban-app)
+- 🔭 I’m currently working on learning and practicing Test Driven Development
 
 - 📫 How to reach me **eric.winkelspecht@gmail.com**
 
