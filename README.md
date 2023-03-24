@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ericwink.dev/](https://www.ericwink.dev/)
 
-- 🔭 I’m currently working on learning and practicing Test Driven Development
+- 🔭 I’m currently working on [We Should Watch](https://github.com/ericwink/weshouldwatch)
 
 - 📫 How to reach me **eric.winkelspecht@gmail.com**
 
